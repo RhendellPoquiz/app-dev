@@ -2,7 +2,7 @@
  My first repository
  # Weak Hero
 
-**Weak Hero** Because the main character is smart and surprising – He looks weak, but he fights back in clever ways.
+**Weak Hero** Because the main character is smart and surprising. He looks weak, but he fights back in clever ways.
 
 ## Overview
 
